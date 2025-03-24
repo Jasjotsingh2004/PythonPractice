@@ -1,0 +1,10 @@
+Li=[]
+a=input("fruit1")
+Li.append(a)
+b=input("fruit1")
+Li.append(b)
+c=input("fruit1")
+Li.append(c)
+d=input("fruit1")
+Li.append(d)
+print(Li)

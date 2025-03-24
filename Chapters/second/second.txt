@@ -1,0 +1,12 @@
+data types
+
+
+integers
+floating point numbers
+strings 
+booleans
+none
+
+
+* t=type(a) - tells type
+* b=float(a)
